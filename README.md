@@ -10,13 +10,13 @@
 #### **Team Name** <<The Apex Six>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   | Sanjay R                    CB.EN.U4EEE26133   |    Male               Btech-EEE  |                 |                                 |  
-|    Member 2     | Rithikvasan P               CB.EN.U4EEE26231        Male |             Btech-EEE       |                 |                                 |  
-|    Member 3     | Mari Vignesh T K            CB.EN.U4EEE26018        Male   |           Btech-EEE             |                 |                                 |  
-|    Member 4     | Pradakshina S V             CB.EN.U4EEE26225        Female   |         Btech-EEE               |                 |                                 |   
-|    Member 5     | Sanjit R V                  CB.EN.U4EEE26235      | Male               Btech-EEE        |                 |                                 |  
-|    Member 6     | P Selvapriya                CB.EN.U4EEE26224        Female      |      Btech-EEE                           |   
+|:---------------:|:------------------------ |:----------------------:|:---------------:|:-------------------------------:| 
+|   Team Leader   | Sanjay R                |    CB.EN.U4EEE26133     |    Male         |      Btech-EEE                 |                                                                                                                              
+|    Member 2     | Rithikvasan P             |  CB.EN.U4EEE26231      |  Male          |             Btech-EEE       |                                                 
+|    Member 3     | Mari Vignesh T K           | CB.EN.U4EEE26018      |  Male   |           Btech-EEE             |                                                   
+|    Member 4     | Pradakshina S V          |   CB.EN.U4EEE26225       | Female   |         Btech-EEE               |                                                  
+|    Member 5     | Sanjit R V               |   CB.EN.U4EEE26235      | Male       |        Btech-EEE        |                                                
+|    Member 6     | P Selvapriya      |          CB.EN.U4EEE26224     |   Female      |      Btech-EEE        |                    
 
 #### Mentor Details
 
