@@ -33,7 +33,7 @@
 
 * **Problem Statement ID: SIH26033
 * **Problem Statement Title: Multiple intermediaries reduce farmers earnings and increase consumer prices
-* **Theme / Category: Agriculture, FoodTech & Rural Development
+* **Theme / Category: Agriculture, FoodTech & Rural Development / Software
 * **Ministry / Organization: Ministry of Consumer Affairs, Food & Public Distribution
 
 #### PS#2
