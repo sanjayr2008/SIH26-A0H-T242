@@ -40,5 +40,5 @@
 
 * **Problem Statement ID: SIH26021
 * **Problem Statement Title: Honey Chain: A block chain-based system for honey traceability and smart beekeeping management
-* **Theme / Category: Agriculture, FoodTech & Rural Development
+* **Theme / Category: Agriculture, FoodTech & Rural Development / Software
 * **Ministry / Organization: Ministry of MSME
